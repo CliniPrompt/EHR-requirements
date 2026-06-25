@@ -35,6 +35,26 @@ Other requirements include but are not limited to:
 
 ### Promote and Optimise Continuity of Care
 
+The system will promote the values of **continuity**, **ownership** and **shared responsibility** when delivering clinical care.
+
+**Ownership** relates to the clinician delivering on a commitment to responding to the patient's needs. **Shared responsibility** recognises that the patient and clinician form a shared management plan. The responsibilities of both parties are clearly identified.
+
+The management plan forms a dynamic *'project'* where all parties can see the status of individual tasks:
+
+---
+
+### PLAN ITEM 1 — Chest X-Ray
+
+**Subtasks:**
+
+1. 🩺 Chest X-ray request *(clinician)*
+2. 📅 Chest X-ray booking *(patient)*
+3. 🏥 Chest X-ray performed *(patient)*
+4. 📋 Chest X-ray report review *(clinician)*
+5. 🔍 Outcome / follow-up decision *(clinician)*
+6. 📞 Follow-up appointment scheduling *(patient)*
+
+
 The EHR should utilise knowledge graphs to build a representation of a patient journey. This identifies that the relationships between data points are just as important as the data itself. Each clinical consultation, test result, procedure and referral forms a part of the knowledge graph. The interface allows automatic presentation of condition relevant data and this also allows the potential for AI-enabled search functions and monitoring.
 
 The system will recognise and build in the value of the human clinical relationship in care. The system will promote and support the ability to keep continuity where possible and correct.
