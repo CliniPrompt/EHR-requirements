@@ -53,6 +53,8 @@ The EHR is an active tool, central to the consultation. It is not an abstract di
 
 Context-relevant data is surfaced either from pre-existing investigations or encounters. The EHR also provides easy access to both internal and external resources — referral criteria, guidelines, patient information resources.
 
+The EHR will have native AI integration. This will enable information retrieval, analysis and interrogation. The AI outputs need to be complete, correct and provable. The provenance and ‘memory of the why’ needs to be visible and preserved.
+
 ---
 
 ## Patient Needs
