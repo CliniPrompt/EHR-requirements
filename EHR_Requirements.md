@@ -2,6 +2,14 @@
 
 This document sets out the requirements for a new EHR. It will have the principles of openness and interoperability at its core. The EHR will ensure it meets the needs of all its users and maintain the patient at the centre as a core priority. It will encourage patient engagement and involvement in their healthcare data. It will be the key way to integrate safely the rapid advancements in areas such as AI, genomics and health data to shift from reactive healthcare to a system that utilises the principles of healthcare that is personalised, predictive, preventative and participatory.
 
+We can use the quintuple aims of healthcare systems to help guide how to optimise specific tooling and functionality within the system. The quintuple aims are:
+
+- Improved patient experience
+- Better health outcomes
+- Lower cost
+- Clinician wellbeing
+- Health equity
+
 Health systems represent a key piece of national security infrastructure. They need to be secure, resistant to attacks, and have the ability for vulnerabilities once identified to be rapidly removed. Availability, uptime and reliability is key.
 
 When considering the requirements of an EHR it is essential to consider the needs of the people that will be using it.
